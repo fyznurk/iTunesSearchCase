@@ -11,5 +11,5 @@ git clone https://github.com/fyznurk/iTunesSearchCase.git
 and, hit "Run". Done!
 
 ## Screenshots
-![All List](https://github.com/fyznurk/iTunesSearchCase/blob/master/screenshots/all_list.png =250x250)
-![Item Detail](https://github.com/fyznurk/iTunesSearchCase/blob/master/screenshots/item_detail.png =250x250)
+![All List](https://github.com/fyznurk/iTunesSearchCase/blob/master/screenshots/all_list.png)
+![Item Detail](https://github.com/fyznurk/iTunesSearchCase/blob/master/screenshots/item_detail.png)
