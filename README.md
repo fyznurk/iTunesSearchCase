@@ -12,4 +12,4 @@ and, hit "Run". Done!
 
 ## Screenshots
 ![All List](https://github.com/fyznurk/iTunesSearchCase/blob/master/screenshots/all_list.png)
-![Item Detail](https://raw.githubusercontent.com/fyznurk/iTunesSearchCase/master/screenshots/item_detail.png)
+![Item Detail](https://github.com/fyznurk/iTunesSearchCase/blob/master/screenshots/item_detail.png)
