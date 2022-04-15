@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iTunes Search Case</string>
+    <string name="search">iTunesSearch</string>
+    <string name="detail">Detail</string>
+    <string name="movies">Movies</string>
+    <string name="music">Music</string>
+    <string name="apps">Apps</string>
+    <string name="books">Books</string>
+    <string name="ebook">Ebook</string>
+    <string name="podcast">Podcast</string>
+    <string name="no_result">No Result</string>
+</resources>
