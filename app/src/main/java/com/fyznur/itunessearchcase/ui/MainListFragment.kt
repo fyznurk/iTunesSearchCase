@@ -1,5 +1,6 @@
 package com.fyznur.itunessearchcase.ui
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -99,11 +100,13 @@ class MainListFragment : Fragment(), RecyclerViewItemClick {
     }
 
 
+    @SuppressLint("NotifyDataSetChanged")
     private fun getList() {
         if (term?.length ?: 0 >= 2) {
             mainViewModel.getAllList(term ?: "", page, 20, media ?: "")
         } else {
             adapter?.clearAll()
+            adapter?.notifyDataSetChanged()
             page = 1
         }
     }
